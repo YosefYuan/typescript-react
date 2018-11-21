@@ -1,0 +1,32 @@
+{
+  "name": "typescript-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "magic": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosefYuan/typescript-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosefYuan/typescript-react/issues"
+  },
+  "homepage": "https://github.com/YosefYuan/typescript-react#readme",
+  "dependencies": {
+    "@types/react": "^16.7.6",
+    "@types/react-dom": "^16.0.9",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6",
+    "webpack": "^4.26.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
